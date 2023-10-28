@@ -21,10 +21,12 @@ function Homepage() {
 A step for the welfare of another India.
           </h1>
           <p className="w-1/2 homepara mt-8 my-2">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis
-            officiis minus soluta, ex inventore earum eius repellat? Quibusdam
-            facilis, accusantium ut iste esse adipisci pariatur libero velit
-            nostrum. Quis, maiores.
+            Karwaa.N.. an organisation aimed to raise the underprivileged.
+            Here we help and uplift them by numerous ways like Cloth Donations,
+            Preparing Children for JNV(Jawahar Navodaya Vidyalaya), Blood Donations,
+            Hosting Nukkad Natak to raise awareness about many
+            social issues and unnoticed taboos in our society.
+
           </p>
           <div className="h-auto flex justify-center gap-6 py-6 w-96 ">
             <Link to="/Donation">
@@ -74,12 +76,12 @@ A step for the welfare of another India.
         </div>
       </div>
       <div className="flex flex-col items-center h-full text-white w-full px-32 py-12 bg-[#24387a] programbg">
-        <h1 className="text-4xl text-center">Program To Empower Others</h1>
+        <h1 className="text-4xl text-center">Donate to empower the underprivileged and help them today!</h1>
         <p className="programdata text-center w-2/3 text-sm mt-6">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, ipsa!
-          Possimus, tempora! Expedita dicta quasi quidem accusantium temporibus
-          repudiandae voluptate odio, distinctio nesciunt, quam eum, provident
-          mollitia corrupti quisquam praesentium!
+          With your help and donations Karwaa.N... can help the poor children
+          and can have a better life than they are having right now.
+          Even a small amount of donation is appreciated.
+          Your evening snack may be their dinner or all they ate the whole day :)
         </p>
         <div className="w-2/3 programdata my-10 gap-4 flex-row flex justify-center ">
           <div className="w-full h-24  flex flex-col justify-center items-center sideborder">
@@ -105,14 +107,14 @@ A step for the welfare of another India.
       </div>
 
       <h1 id="ourwork" className="text-4xl pt-20 font-semibold my-12 mt-32 text-center text-[#24387a]">
-        Introduce Your Featured <br />
-        Now Profit Causes
+        Various social welfare events <br />
+        By Karwaa.N...
       </h1>
       <div className="w-full flex-wrap cards my-12 justify-center px-32 flex gap-12 h-full">
         <div className="card overflow-hidden">
           <img
             className="images"
-            src="https://imgs.search.brave.com/r3E3JuoUQ6zx-cbhlxj9jrQFItKsWXzHULDpDG0C2ng/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/c2F2ZXRoZWNoaWxk/cmVuLm9yZy9jb250/ZW50L2RhbS91c2Ev/aW1hZ2VzL2Rvbm9y/cy96aW1iYWJ3ZS1m/b29kLWNyaXNpcy1j/aDE0MjA1NDItc3Eu/anBnL19qY3JfY29u/dGVudC9yZW5kaXRp/b25zL29yaWdpbmFs/LmltZy5qcGc"
+            src="https://imgur.com/a/KjB6qAl"
             alt=""
           />
           <div className="detailstoshow bg-white">
@@ -120,7 +122,7 @@ A step for the welfare of another India.
             Nukkad Natak:
             </h1>
             <p className="px-4 pb-2">
-            Nukkad nataks - a form of street theater performed by the members to create an awareness amongst people regarding various social issues. 
+            Nukkad natak - A form of street theater performed by the members to create an awareness amongst people regarding various social issues. 
             </p>
             <button className="border-2 flex flex-row justify-center items-center gap-2 font-semibold text-[#24387a] px-4 py-1 m-4 rounded-lg border-[#24387a] hover:bg-[#24387a] hover:text-white duration-300">
               Read More
@@ -130,7 +132,7 @@ A step for the welfare of another India.
         <div className="card overflow-hidden">
           <img
             className="images"
-            src="https://imgs.search.brave.com/r3E3JuoUQ6zx-cbhlxj9jrQFItKsWXzHULDpDG0C2ng/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/c2F2ZXRoZWNoaWxk/cmVuLm9yZy9jb250/ZW50L2RhbS91c2Ev/aW1hZ2VzL2Rvbm9y/cy96aW1iYWJ3ZS1m/b29kLWNyaXNpcy1j/aDE0MjA1NDItc3Eu/anBnL19qY3JfY29u/dGVudC9yZW5kaXRp/b25zL29yaWdpbmFs/LmltZy5qcGc"
+            src="https://imgur.com/a/7I6ThmO"
             alt=""
           />
           <div className="detailstoshow bg-white">
@@ -148,7 +150,7 @@ A step for the welfare of another India.
         <div className="card overflow-hidden">
           <img
             className="images"
-            src="https://imgs.search.brave.com/r3E3JuoUQ6zx-cbhlxj9jrQFItKsWXzHULDpDG0C2ng/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/c2F2ZXRoZWNoaWxk/cmVuLm9yZy9jb250/ZW50L2RhbS91c2Ev/aW1hZ2VzL2Rvbm9y/cy96aW1iYWJ3ZS1m/b29kLWNyaXNpcy1j/aDE0MjA1NDItc3Eu/anBnL19qY3JfY29u/dGVudC9yZW5kaXRp/b25zL29yaWdpbmFs/LmltZy5qcGc"
+            src="https://imgur.com/a/npZUA7A"
             alt=""
           />
           <div className="detailstoshow bg-white">
@@ -166,7 +168,7 @@ A step for the welfare of another India.
         <div className="card overflow-hidden">
           <img
             className="images"
-            src="https://imgs.search.brave.com/r3E3JuoUQ6zx-cbhlxj9jrQFItKsWXzHULDpDG0C2ng/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/c2F2ZXRoZWNoaWxk/cmVuLm9yZy9jb250/ZW50L2RhbS91c2Ev/aW1hZ2VzL2Rvbm9y/cy96aW1iYWJ3ZS1m/b29kLWNyaXNpcy1j/aDE0MjA1NDItc3Eu/anBnL19qY3JfY29u/dGVudC9yZW5kaXRp/b25zL29yaWdpbmFs/LmltZy5qcGc"
+            src="https://imgur.com/a/mUNeefe"
             alt=""
           />
           <div className="detailstoshow bg-white">
@@ -184,7 +186,7 @@ A step for the welfare of another India.
         <div className="card overflow-hidden">
           <img
             className="images"
-            src="https://imgs.search.brave.com/r3E3JuoUQ6zx-cbhlxj9jrQFItKsWXzHULDpDG0C2ng/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/c2F2ZXRoZWNoaWxk/cmVuLm9yZy9jb250/ZW50L2RhbS91c2Ev/aW1hZ2VzL2Rvbm9y/cy96aW1iYWJ3ZS1m/b29kLWNyaXNpcy1j/aDE0MjA1NDItc3Eu/anBnL19qY3JfY29u/dGVudC9yZW5kaXRp/b25zL29yaWdpbmFs/LmltZy5qcGc"
+            src="https://imgur.com/a/YEvt7CF"
             alt=""
           />
           <div className="detailstoshow bg-white">
@@ -202,7 +204,7 @@ A step for the welfare of another India.
         <div className="card overflow-hidden">
           <img
             className="images"
-            src="https://imgs.search.brave.com/r3E3JuoUQ6zx-cbhlxj9jrQFItKsWXzHULDpDG0C2ng/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/c2F2ZXRoZWNoaWxk/cmVuLm9yZy9jb250/ZW50L2RhbS91c2Ev/aW1hZ2VzL2Rvbm9y/cy96aW1iYWJ3ZS1m/b29kLWNyaXNpcy1j/aDE0MjA1NDItc3Eu/anBnL19qY3JfY29u/dGVudC9yZW5kaXRp/b25zL29yaWdpbmFs/LmltZy5qcGc"
+            src="https://imgur.com/a/WPk1C2z"
             alt=""
           />
           <div className="detailstoshow bg-white">
@@ -210,7 +212,7 @@ A step for the welfare of another India.
             Exam Prepration:
             </h1>
             <p className="px-4 pb-2">
-            Kaarwaa.N aims to shine light in the dark corners of the underprivileged by educating them for these life changing exams. 
+            Kaarwaa.N... aims to shine light in the dark corners of the underprivileged by educating them for these life changing exams. 
             </p>
             <button className="border-2 flex flex-row justify-center items-center gap-2 font-semibold text-[#24387a] px-4 py-1 m-4 rounded-lg border-[#24387a] hover:bg-[#24387a] hover:text-white duration-300">
               Read More
